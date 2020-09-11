@@ -29,3 +29,13 @@ Flag : `omicron{w3lc0m3}`
 Il suffit de retirer tout les `10101101` du texte et on obtient le flag.
 
 Flag : `om{h4h4h4hh_r34l_f0rk1_0Gs_w1ll_kn0w_;)}`
+
+
+## OSINT
+
+### Links
+> This is is an easy-medium OSINT challenge, while it does take some steps to complete, it doesn't involve any step that is too hard.
+> 10 points | Medium
+
+> We heard of this guy bragging about his botnet, he goes under the name of "anomalousitalypseudogangsta" (weird name, huh?). He's also said to be active on social media. Anyway, can you find out more about him? (no website-accounts required!)
+
