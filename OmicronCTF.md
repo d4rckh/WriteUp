@@ -13,7 +13,7 @@
 Besoin de decoder `b21pY3Jvbnt3M2xjMG0zfQ==`
 
 Avec :
-```
+```bash
 $ echo "b21pY3Jvbnt3M2xjMG0zfQ==" | base64 -d
 omicron{w3lc0m3}
 ```
